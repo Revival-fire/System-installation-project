@@ -41,3 +41,10 @@
 
 
 
+- The image shows Markdown syntax practise i did
+
+   ![images](./images/system-installation6.PNG)
+
+
+
+
