@@ -6,11 +6,13 @@
 - Markdown Format
 - Visual Studio Code (VSCode)
 
-(Prerequisites: Windows OS, Command Prompt, GitHub Account)
+
 
 
 1. OPENSSH (AND SSH-AGENT) INSTALLATION AND KEY PAIR SETUP
 
-Install SSH/OpenSSH (Windows)
-Run the command in terminal to verify openSSH is installed: ssh
+   Install SSH/OpenSSH (Windows) and  verify if its properly installed. Generate ssh keys to be aadded to the git hub account.
+   {images}
+   {images}
+
 
